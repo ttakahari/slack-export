@@ -35,6 +35,12 @@ pip install slacker # https://github.com/os/slacker
 pip install pick # https://github.com/wong2/pick
 ```
 
+If you use on Windows, install this module.
+
+```
+pip install windows-curses # https://github.com/zephyrproject-rtos/windows-curses
+```
+
 ## Basic Usage
 ```
 # Export all Channels and DMs
